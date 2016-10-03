@@ -13,3 +13,6 @@ Humanitarian Free and Open Source Software
 
 - [Digital Humanitarians](http://www.digital-humanitarians.com)
 
+## Resources
+
+[A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
