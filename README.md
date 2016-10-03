@@ -32,13 +32,10 @@ Welcome to Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanit
 
 ## Mentors
 
-- Carol Willing GH: willingc
-- Jamie
+- Carol Willing @willingc
+- Jamie Whitacre
 - Reese Netro
--
-- 
-- 
--
+
 
 ## Thanks
 
