@@ -22,3 +22,8 @@ Site: https://willingc.github.io/oh-ghc-tx/index.html
     * [Wiki article on OpenHatch](http://blog.openhatch.org/2014/openhatch-at-grace-hopper-open-source-day/)
 - [Carol's first public open source pull request](https://github.com/ghc-1/ghc-1.github.io/pull/10) and it happened during
 the Open Source Day workshop.
+
+
+## OpenHatch's very first Open Source Comes to Campus event
+
+[opensource.com article from 2010](https://opensource.com/life/10/11/introducing-students-world-open-source-day-1)
