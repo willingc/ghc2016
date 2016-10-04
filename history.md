@@ -14,7 +14,10 @@ Workshop by Shauna Gordon-McKeon
 
 ## 2013 Minneapolis, MN
 
-OpenHatch Open Source Comes to Campus workshop
-
-[Carol's first public open source pull request](https://github.com/ghc-1/ghc-1.github.io/pull/10) and it happened during
+- [opensource.com article on Open Source Day 2013](https://opensource.com/life/13/6/grace-hopper-event-2013)
+- OpenHatch Open Source Comes to Campus workshop
+    * [Photos from the event](https://www.flickr.com/photos/paulproteus/sets/72157640340073285/)
+    * [Practicing git activity](http://wiki.openhatch.org/Open_Source_Comes_to_Campus/Practicing_Git)
+    * [Wiki article on OpenHatch](http://blog.openhatch.org/2014/openhatch-at-grace-hopper-open-source-day/)
+- [Carol's first public open source pull request](https://github.com/ghc-1/ghc-1.github.io/pull/10) and it happened during
 the Open Source Day workshop.
