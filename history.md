@@ -10,7 +10,8 @@ Site: https://willingc.github.io/oh-ghc-tx/index.html
 
 ## 2014 Phoenix, AZ
 
-Workshop by Shauna Gordon-McKeon
+- [opensource.com article on Open Source Day 2014](https://opensource.com/life/14/10/build-foss-skills-grace-hoppers-open-source-day)
+- Workshop by Shauna Gordon-McKeon
 
 ## 2013 Minneapolis, MN
 
