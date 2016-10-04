@@ -1,6 +1,6 @@
 # ghc-openhatch-2016
 
-Welcome to Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity!
+Welcome to [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
 
 ## Key Info
 
@@ -10,8 +10,8 @@ Welcome to Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanit
 
 ## Organizations
 
-- OpenHatch
-- Project Jupyter
+- [OpenHatch](https://openhatch.org)
+- [Project Jupyter](https://jupyter.org)
 
 ## Goals
 
@@ -24,7 +24,7 @@ Welcome to Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanit
 
 ## Materials
 
-- Anaconda
+- [Anaconda](https://www.continuum.io/downloads)
 - GitHub account
 - Git installed on your system
 - Basic command line
@@ -35,11 +35,8 @@ Welcome to Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanit
 - Carol Willing @willingc
 - Jamie Whitacre
 - Reese Netro
-
+- More mentors coming soon
 
 ## Thanks
 
 A big thank you to Open Source Day organizers, sponsors, mentors, guests, and attendees.
-
-
-
