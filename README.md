@@ -5,6 +5,7 @@
 Thanks for joining us today.
 
 Three simple goals:
+
 - Have fun.
 - Learn.  
 - Build  useful things for humanity.
