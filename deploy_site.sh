@@ -5,5 +5,5 @@
 echo "Deploying website to GitHub..."
 nikola github_deploy
 
-echo "Completed."
+
 
