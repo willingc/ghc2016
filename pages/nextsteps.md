@@ -1,3 +1,11 @@
+<!--
+.. link:
+.. description:
+.. tags: 2017
+.. date: 2016-10-05
+.. title: Next steps
+.. slug: nextsteps
+-->
 # Run your own Open Source Day
 
 ## An In Person Event Handbook
@@ -15,4 +23,3 @@
     * Career panel
     * History and Ethics of Free Software [Lecture](http://wiki.openhatch.org/Open_Source_Comes_to_Campus/Curriculum/History_and_Ethics_of_Free_Software/Ethics_history_talk)
     * Hands on workshop
- 

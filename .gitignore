@@ -87,3 +87,12 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Nikola
+cache
+.doit.db
+__pycache__
+output
+ghc3
+.doit.db.db
+state_data.json
