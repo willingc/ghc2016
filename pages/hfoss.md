@@ -1,3 +1,11 @@
+<!--
+.. link:
+.. description:
+.. tags: hfoss
+.. date: 2016-10-05
+.. title: HFOSS
+.. slug: hfoss
+-->
 # HFOSS
 
 Humanitarian Free and Open Source Software
