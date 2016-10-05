@@ -11,7 +11,7 @@ BLOG_TITLE = "Open Source Day 2016"  # (translatable)
 SITE_URL = "https://willingc.github.io/ghc-openhatch-2016/welcome/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://example.com/"
+BASE_URL = "https://willingc.github.io/ghc-openhatch-2016/"
 BLOG_EMAIL = "willingc@gmail.com"
 BLOG_DESCRIPTION = "Open Source Day 2016 at Grace Hopper"  # (translatable)
 
