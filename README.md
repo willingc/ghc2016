@@ -1,4 +1,4 @@
-# ghc-openhatch-2016
+# [ghc-openhatch-2016](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
 ## Welcome
 
