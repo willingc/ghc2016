@@ -40,3 +40,8 @@ Welcome to [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humani
 ## Thanks
 
 A big thank you to Open Source Day organizers, sponsors, mentors, guests, and attendees.
+
+## Resources for mentors
+
+- [You can git!](http://www.slideshare.net/willingc/yes-you-can-git)
+
