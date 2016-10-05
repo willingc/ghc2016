@@ -6,11 +6,21 @@
 .. title: Welcome
 .. slug: welcome
 -->
+## [Welcome](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
-# ghc-openhatch-2016
+Thanks for joining us today.
 
-Welcome to [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
+Three simple goals:
+- Have fun.
+- Learn.  
+- Build  useful things for humanity.
 
+[Website for Participants and Mentors](https://willingc.github.io/ghc-openhatch-2016/welcome/)
+
+###  Links to GHC sites
+
+- [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
+- [Open Source Day wiki]
 ## Key Info
 
 - Schedule

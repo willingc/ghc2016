@@ -1,11 +1,11 @@
 # [ghc-openhatch-2016](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
-## Welcome
+## [Welcome](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 
-Thanks for joining us today. 
+Thanks for joining us today.
 
 Three simple goals:
-- Have fun. 
+- Have fun.
 - Learn.  
 - Build  useful things for humanity.
 
@@ -13,8 +13,8 @@ Three simple goals:
 
 ###  Links to GHC sites
 
-[Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
-[Open Source Day wiki]
+- [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
+- [Open Source Day wiki]
 
 ## Key Info
 
@@ -58,4 +58,3 @@ A big thank you to Open Source Day organizers, sponsors, mentors, guests, and at
 ## Resources for mentors
 
 - [You can git!](http://www.slideshare.net/willingc/yes-you-can-git)
-
