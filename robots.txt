@@ -1,4 +1,4 @@
-Sitemap: https://willingc.github.io/ghc-openhatch-2016/welcome/sitemapindex.xml
+Sitemap: https://willingc.github.io/ghc-openhatch-2016/sitemapindex.xml
 
 User-Agent: *
 Host: willingc.github.io
