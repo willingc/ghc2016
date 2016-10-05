@@ -6,43 +6,43 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/archive.html</loc>
+  <lastmod>2016-10-05T16:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/categories/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/galleries/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/hfoss/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/hfoss/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/history/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/history/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/listings/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/mentors-meeting/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/mentors-meeting/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/nextsteps/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/nextsteps/</loc>
-  <lastmod>2016-10-05T16:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://example.com/welcome/</loc>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/welcome/</loc>
   <lastmod>2016-10-05T16:01:00Z</lastmod>
  </url>
 </urlset>
