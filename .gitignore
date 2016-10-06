@@ -96,3 +96,5 @@ output
 ghc3
 .doit.db.db
 state_data.json
+
+.DS_store
