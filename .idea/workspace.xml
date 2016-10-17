@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a8b9537f-b1b1-40f6-9050-1bb1dd2bf1bf" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/welcome.md" afterPath="$PROJECT_DIR$/pages/welcome.md" />
     </list>
     <ignored path="ghc-openhatch-2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -74,12 +75,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nextsteps.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nextsteps.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/nextsteps.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="435">
                 <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -110,12 +127,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="welcome.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="welcome.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/welcome.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="144">
-                <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+              <first_editor relative-caret-position="189">
+                <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -138,9 +155,10 @@
         <option value="$PROJECT_DIR$/themes/custom/assets/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/pages/hfoss.md" />
         <option value="$PROJECT_DIR$/conf.py" />
-        <option value="$PROJECT_DIR$/pages/welcome.md" />
         <option value="$PROJECT_DIR$/pages/set-up.md" />
         <option value="$PROJECT_DIR$/pages/nextsteps.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pages/welcome.md" />
       </list>
     </option>
   </component>
@@ -433,20 +451,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/welcome.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/set-up.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -466,6 +470,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="435">
             <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/welcome.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="189">
+            <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
             <folding />
           </first_editor>
           <second_editor />
