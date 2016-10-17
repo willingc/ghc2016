@@ -10,11 +10,13 @@
 
 ## 2016 Houston, TX
 
+* [Repo](http://bit.ly/osd16repo)
+* [Website](http://bit.ly/osd16)
+
 ## 2015 Houston, TX
 
-Resources: https://github.com/willingc/oh-ghc-2015
-
-Site: https://willingc.github.io/oh-ghc-tx/index.html
+* [Repo](https://github.com/willingc/oh-ghc-2015)
+* [Website](https://willingc.github.io/oh-ghc-tx/index.html)
 
 ## 2014 Phoenix, AZ
 
