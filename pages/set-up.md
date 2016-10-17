@@ -43,9 +43,34 @@ many available that are open source. Two user friendly editors are:
 
 ## Jupyter Notebook
 
-1. Download the Anaconda installer for your operating system.
+1. Download the [Anaconda installer](https://www.continuum.io/downloads)
+   for your operating system. FYI...most modern computers are 64 bit.
 
 2. Run the installer.
+
+3. Download the [conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
+
+
+---
+
+## Documentation, help, and cheatsheets
+
+* Command line basics
+    - cheatsheet
+    - Django Girls tutorial section on command line and terminal
+    
+* GitHub and git
+    - [GitHub's git cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+    - [git help](https://git-scm.com/)
+    - [GitHub help](https://help.github.com)
+    - [You can git!](http://www.slideshare.net/willingc/yes-you-can-git)
+
+* Python basics
+    - Django Girls tutorial section on Python
+
+* Conda
+    - [conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
+    - [conda documentation](http://conda.pydata.org/docs/)
 
 ---
 
