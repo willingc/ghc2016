@@ -24,31 +24,6 @@ TRANSLATIONS = {
 }
 TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
-# Links for the sidebar / navigation bar.  (translatable)
-# This is a dict.  The keys are languages, and values are tuples.
-#
-# For regular links:
-#     ('https://getnikola.com/', 'Nikola Homepage')
-#
-# For submenus:
-#     (
-#         (
-#             ('https://apple.com/', 'Apple'),
-#             ('https://orange.com/', 'Orange'),
-#         ),
-#         'Fruits'
-#     )
-#
-# WARNING: Support for submenus is theme-dependent.
-#          Only one level of submenus is supported.
-# WARNING: Some themes, including the default Bootstrap 3 theme,
-#          may present issues if the menu is too large.
-#          (in bootstrap3, the navbar can grow too large and cover contents.)
-# WARNING: If you link to directories, make sure to follow
-#          ``STRIP_INDEXES``.  If it’s set to ``True``, end your links
-#          with a ``/``, otherwise end them with ``/index.html`` — or
-#          else they won’t be highlighted when active.
-
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/welcome/", "Welcome"),
@@ -63,11 +38,11 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "custom"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+# THEME_COLOR = '#0071bc'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -1023,7 +998,7 @@ MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
@@ -1090,7 +1065,7 @@ UNSLUGIFY_TITLES = True
 # If webassets is installed, bundle JS and CSS into single files to make
 # site loading faster in a HTTP/1.1 environment but is not recommended for
 # HTTP/2.0 when caching is used. Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
