@@ -28,23 +28,6 @@ Three simple goals:
 - [OpenHatch](https://openhatch.org)
 - [Project Jupyter](https://jupyter.org)
 
-## Goals
-
-- Learn
-- Gallery of Humanitarian Notebooks
-  * Education - teaching women; access to technical resources; open data
-  * Mapping - safe routes, open data community resources
-  * Curate existing notebooks on humanitarian causes
-- Open Source Day 2017
-
-## Materials
-
-- [Anaconda](https://www.continuum.io/downloads)
-- GitHub account
-- Git installed on your system
-- Basic command line
-- Basic git commands
-
 ## Mentors
 
 - Carol Willing @willingc
@@ -55,7 +38,3 @@ Three simple goals:
 ## Thanks
 
 A big thank you to Open Source Day organizers, sponsors, mentors, guests, and attendees.
-
-## Resources for mentors
-
-- [You can git!](http://www.slideshare.net/willingc/yes-you-can-git)
