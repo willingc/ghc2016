@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://willingc.github.io/ghc-openhatch-2016/galleries/rss.xml</loc>
-  <lastmod>2016-10-05T16:52:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://willingc.github.io/ghc-openhatch-2016/rss.xml</loc>
-  <lastmod>2016-10-05T17:10:00Z</lastmod>
+  <lastmod>2016-10-17T11:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://willingc.github.io/ghc-openhatch-2016/sitemap.xml</loc>
-  <lastmod>2016-10-05T17:10:00Z</lastmod>
+  <lastmod>2016-10-17T11:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
