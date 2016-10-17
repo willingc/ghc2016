@@ -19,7 +19,8 @@ Key things for a successful Open Source Day:
 
 ##  Links
 
-- [Website for Participants and Mentors](https://willingc.github.io/ghc-openhatch-2016/welcome/)
+- [Repo http://bit.ly/osd16repo](http://bit.ly/osd16repo)
+- [Website for Participants and Mentors](http://bit.ly/osd16)
 - [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
 - [Open Source Day Wiki](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd)
 - [Open Source Day Wiki - OpenHatch](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd:openhatch)
