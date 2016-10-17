@@ -10,16 +10,16 @@
 
 Thanks for joining us today.
 
-Three simple goals:
+Key things for a successful Open Source Day:
 
 - Have fun.
-- Learn.  
+- Learn.
+- Ask questions. *Pro tip: Great developers ask lots of questions.*
 - Build useful things for humanity.
 
-[Website for Participants and Mentors](https://willingc.github.io/ghc-openhatch-2016/welcome/)
+##  Links
 
-###  Links to GHC sites
-
+- [Website for Participants and Mentors](https://willingc.github.io/ghc-openhatch-2016/welcome/)
 - [Grace Hopper Celebration 2016 Open Source Day Code-a-thon for Humanity](http://ghc.anitaborg.org/2016-attend/conference-overview/open-source-day/)!
 - [Open Source Day Wiki](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd)
 - [Open Source Day Wiki - OpenHatch](http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd:openhatch)
@@ -31,27 +31,10 @@ Three simple goals:
 - Lunch/Breaks
 - Presentation
 
-## Organizations
+## About the Organizations
 
 - [OpenHatch](https://openhatch.org)
 - [Project Jupyter](https://jupyter.org)
-
-## Goals
-
-- Learn
-- Gallery of Humanitarian Notebooks
-  * Education - teaching women; access to technical resources; open data
-  * Mapping - safe routes, open data community resources
-  * Curate existing notebooks on humanitarian causes
-- Open Source Day 2017
-
-## Materials
-
-- [Anaconda](https://www.continuum.io/downloads)
-- GitHub account
-- Git installed on your system
-- Basic command line
-- Basic git commands
 
 ## Mentors
 
@@ -62,8 +45,5 @@ Three simple goals:
 
 ## Thanks
 
-A big thank you to Open Source Day organizers, sponsors, mentors, guests, and attendees.
-
-## Resources for mentors
-
-- [You can git!](http://www.slideshare.net/willingc/yes-you-can-git)
+A big thank you to Open Source Day organizers, sponsors, mentors,
+guests, and attendees.

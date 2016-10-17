@@ -46,3 +46,28 @@ many available that are open source. Two user friendly editors are:
 1. Download the Anaconda installer for your operating system.
 
 2. Run the installer.
+
+---
+
+Work in process:
+
+## Goals
+
+- Learn
+- Gallery of Humanitarian Notebooks
+  * Education - teaching women; access to technical resources; open data
+  * Mapping - safe routes, open data community resources
+  * Curate existing notebooks on humanitarian causes
+- Open Source Day 2017
+
+## Materials
+
+- [Anaconda](https://www.continuum.io/downloads)
+- GitHub account
+- Git installed on your system
+- Basic command line
+- Basic git commands
+
+## Resources for mentors
+
+- [You can git!](http://www.slideshare.net/willingc/yes-you-can-git)
