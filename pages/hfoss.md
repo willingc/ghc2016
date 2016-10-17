@@ -6,9 +6,8 @@
 .. title: HFOSS
 .. slug: hfoss
 -->
-# HFOSS
+# Humanitarian Free and Open Source Software (HFOSS)
 
-Humanitarian Free and Open Source Software
 
 ## Articles
 
@@ -23,4 +22,4 @@ Humanitarian Free and Open Source Software
 
 ## Resources
 
-[A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+- [A Gallery of Interesting Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)

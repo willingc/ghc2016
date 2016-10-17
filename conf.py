@@ -27,6 +27,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/welcome/", "Welcome"),
+        ("/set-up/", "Set Up"),
         ("/hfoss/", "HFOSS"),
         ("/history/", "History"),
         ("/nextsteps/", "Next steps"),
