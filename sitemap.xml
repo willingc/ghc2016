@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://willingc.github.io/ghc-openhatch-2016/</loc>
-  <lastmod>2016-10-17T11:20:00Z</lastmod>
+  <lastmod>2016-10-17T11:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://willingc.github.io/ghc-openhatch-2016/archive.html</loc>
-  <lastmod>2016-10-17T11:20:00Z</lastmod>
+  <lastmod>2016-10-17T11:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://willingc.github.io/ghc-openhatch-2016/categories/</loc>
@@ -32,6 +32,10 @@
  <url>
   <loc>https://willingc.github.io/ghc-openhatch-2016/nextsteps/</loc>
   <lastmod>2016-10-17T11:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://willingc.github.io/ghc-openhatch-2016/set-up/</loc>
+  <lastmod>2016-10-17T11:47:00Z</lastmod>
  </url>
  <url>
   <loc>https://willingc.github.io/ghc-openhatch-2016/welcome/</loc>
