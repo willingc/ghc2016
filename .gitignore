@@ -96,5 +96,6 @@ output
 ghc3
 .doit.db.db
 state_data.json
+.idea
 
 .DS_store
