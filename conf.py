@@ -29,6 +29,7 @@ NAVIGATION_LINKS = {
         ("/welcome/", "Welcome"),
         ("/set-up/", "Set Up"),
         ("/hfoss/", "HFOSS"),
+        ("/notebooks/", "Notebooks"),
         ("/history/", "History"),
         ("/nextsteps/", "Next steps"),
         ("/mentors-meeting/", "Mentors"),
