@@ -56,9 +56,11 @@ many available that are open source. Two user friendly editors are:
 ## Documentation, help, and cheatsheets
 
 * Command line basics
-    - cheatsheet
-    - Django Girls tutorial section on command line and terminal
-    
+    - [cheatsheet]
+    - [Advanced cheatsheet](https://digital-forensics.sans.org/media/linux-shell-survival-guide.pdf) Not needed for workshop but handy to have
+    - [Django Girls tutorial section on command line and terminal](https://tutorial.djangogirls.org/en/intro_to_command_line/) Highly recommended
+    - [Learn Python the Hard Way - Command Line](https://learnpythonthehardway.org/book/appendixa.html)
+
 * GitHub and git
     - [GitHub's git cheatsheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
     - [git help](https://git-scm.com/)
@@ -67,6 +69,7 @@ many available that are open source. Two user friendly editors are:
 
 * Python basics
     - Django Girls tutorial section on Python
+    - [Quick reference to Python](http://www.dataschool.io/python-quick-reference/)
 
 * Conda
     - [conda cheatsheet](http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf)
