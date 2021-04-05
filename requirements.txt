@@ -22,7 +22,7 @@ jupyter-client==4.4.0
 jupyter-console==5.0.0
 jupyter-core==4.2.0
 Logbook==1.0.0
-lxml==3.6.4
+lxml==4.6.3
 MacFSEvents==0.7
 Mako==1.0.4
 Markdown==2.6.7
